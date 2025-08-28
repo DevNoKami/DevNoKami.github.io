@@ -1,10 +1,11 @@
-["name":"Torrent",
-	"downloads":[
-		{
-			"title":"Persona 5 Royal",
-			"urls":["magnet%3A%3Fxt%3Durn%3Abtih%3A099F8DF50FC116204C5F3BE1E11E46CF90E9523E%26tr%3Dhttp%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet%26dn%3D%5BNintendo%20Switch%5D%20P"],
-			"uploadDate":"22/08/2025"
-			"fileSize":"14 GB"}
-		]
-	
-	]
+{
+	"name": "DevNoKami",
+	"downloads": [
+	  {  
+		 "title":"Persona 5 Royal",
+		 "urls":["magnet%3A%3Fxt%3Durn%3Abtih%3A099F8DF50FC116204C5F3BE1E11E46CF90E9523E%26tr%3Dhttp%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet%26dn%3D%5BNintendo%20Switch%5D%20P"],
+		 "uploadDate":"2025-08-28T20:00:00.000Z"
+		 "fileSize":"14 GB"
+  }
+ ]	
+}
