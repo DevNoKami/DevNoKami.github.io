@@ -1,12 +1,563 @@
 {
-	"name": "DevNoKami",
-	"downloads": [
-	  {  
-		 "title":"Persona 5 Royal",
-		 "urls":["magnet%3A%3Fxt%3Durn%3Abtih%3A099F8DF50FC116204C5F3BE1E11E46CF90E9523E%26tr%3Dhttp%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet%26dn%3D%5BNintendo%20Switch%5D%20P"],
-		 "uploadDate":"2025-08-28T20:00:00.000Z"
-		 "fileSize":"14 GB"
-  }
- ]	
+  "name": "Denuvo Pub - Free DRM Games",
+  "downloads": [
+    {
+      "title": "The First Berserker: Khazan",
+      "uris": ["https://gofile.io/d/JMTrux"],
+      "uploadDate": "2025-07-15T20:00:00.000Z",
+      "fileSize": "52 GB"
+    },
+    {
+      "title": "Stellar Blade Complete Edition",
+      "uris": ["https://gofile.io/d/vR7QAu"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "58 GB"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles",
+      "uris": ["https://gofile.io/d/pv3VIJ"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "24 GB"
+    },
+    {
+      "title": "Sonic x Shadow Generations",
+      "uris": ["https://gofile.io/d/nW52ML"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "36 GB"
+    },
+    {
+      "title": "Black Myth Wukong",
+      "uris": ["https://gofile.io/d/OekHiQ"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "134 GB"
+    },
+    {
+      "title": "F1 25 Iconic Edition",
+      "uris": ["https://gofile.io/d/ozj5YZ"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "83 GB"
+    },
+    {
+      "title": "Hello Kitty Island Adventure",
+      "uris": ["https://gofile.io/d/6WwOPo"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "2.70 GB"
+    },
+    {
+      "title": "Doom: The Dark Ages",
+      "uris": ["https://gofile.io/d/fRquav"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "70 GB"
+    },
+    {
+      "title": "Street Fighter 6",
+      "uris": ["https://gofile.io/d/mDDmcA"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "94 GB"
+    },
+    {
+      "title": "Dead Space - Steam Version",
+      "uris": ["https://gofile.io/d/f8ZF3l"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "36 GB"
+    },
+    {
+      "title": "RAIDOU Remastered: The Mystery of the Soulless Army",
+      "uris": ["https://pixeldrain.com/u/R8wum2GX"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "16.6 GB"
+    },
+    {
+      "title": "Resident Evil 4 - Separate Ways",
+      "uris": ["https://gofile.io/d/auHEjA"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "67.8 GB"
+    },
+    {
+      "title": "Persona 3 Reload",
+      "uris": ["https://gofile.io/d/vXq3hd"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "18 GB"
+    },
+    {
+      "title": "Atomic Heart",
+      "uris": ["https://gofile.io/d/upFF3x"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "119 GB"
+    },
+    {
+      "title": "Need For Speed Unbound",
+      "uris": ["https://gofile.io/d/0wHAAj"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "38 GB"
+    },
+    {
+      "title": "Assassin's Creed Shadows",
+      "uris": ["https://gofile.io/d/2IXPK2"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "131 GB"
+    },
+    {
+      "title": "Mortal Kombat 1",
+      "uris": ["https://gofile.io/d/9s7Xlz"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "141 GB"
+    },
+    {
+      "title": "Persona 3 Portable",
+      "uris": ["https://gofile.io/d/4t4NXz"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "7 GB"
+    },
+    {
+      "title": "Persona 4 Golden",
+      "uris": ["https://gofile.io/d/uCKYuz"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "10 GB"
+    },
+    {
+      "title": "Persona 4 Arena Ultimax",
+      "uris": ["https://gofile.io/d/ShRooz"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "21 GB"
+    },
+    {
+      "title": "Persona 5 Royal",
+      "uris": ["https://gofile.io/d/RVXrU3"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "39 GB"
+    },
+    {
+      "title": "Persona 5 Strikers",
+      "uris": ["https://gofile.io/d/lPfDZj"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "21 GB"
+    },
+    {
+      "title": "Persona 5 Tactica",
+      "uris": ["https://gofile.io/d/SZHe56"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "16 GB"
+    },
+    {
+      "title": "Sonic Colors: Ultimate",
+      "uris": ["https://gofile.io/d/ICKLIL"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "22 GB"
+    },
+    {
+      "title": "Sonic Frontiers",
+      "uris": ["https://gofile.io/d/ClG9Go"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "38 GB"
+    },
+    {
+      "title": "Sonic Origins",
+      "uris": ["https://gofile.io/d/XBLDGd"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "8 GB"
+    },
+    {
+      "title": "Sonic Superstars",
+      "uris": ["https://gofile.io/d/4IvO7F"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "11 GB"
+    },
+    {
+      "title": "HI-FI RUSH",
+      "uris": ["https://gofile.io/d/NYRofA"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "16 GB"
+    },
+    {
+      "title": "Shin Megami Tensei V: Vengeance",
+      "uris": ["https://gofile.io/d/5fjcjN"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "30 GB"
+    },
+    {
+      "title": "NBA 2K25",
+      "uris": ["https://gofile.io/d/aQ16SG"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "150 GB"
+    },
+    {
+      "title": "Like a Dragon: Pirate Yakuza in Hawaii",
+      "uris": ["https://gofile.io/d/S615wn"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "56 GB"
+    },
+    {
+      "title": "Like a Dragon Gaiden: The Man Who Erased His Name",
+      "uris": ["https://gofile.io/d/kBkflz"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "87 GB"
+    },
+    {
+      "title": "Monster Hunter Wilds",
+      "uris": ["https://gofile.io/d/FG2S8Q"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "78 GB"
+    },
+    {
+      "title": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
+      "uris": ["https://gofile.io/d/F2BMdg"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "5.3 GB"
+    },
+    {
+      "title": "Like a Dragon: Ishin!",
+      "uris": ["https://gofile.io/d/N4I3ao"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "58 GB"
+    },
+    {
+      "title": "Like a Dragon: Infinite Wealth",
+      "uris": ["https://gofile.io/d/93YBu8"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "78 GB"
+    },
+    {
+      "title": "EA SPORTS FC 25",
+      "uris": ["https://gofile.io/d/bDkxNc"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "77 GB"
+    },
+    {
+      "title": "F1 23",
+      "uris": ["https://gofile.io/d/giAxYw"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "65 GB"
+    },
+    {
+      "title": "F1 24",
+      "uris": ["https://gofile.io/d/cOqLHC"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "71 GB"
+    },
+    {
+      "title": "EA SPORTS FC 24",
+      "uris": ["https://gofile.io/d/kt9xrD"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "69 GB"
+    },
+    {
+      "title": "Need For Speed Heat",
+      "uris": ["https://gofile.io/d/sNbvyC"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "37 GB"
+    },
+    {
+      "title": "Grid Legends",
+      "uris": ["https://gofile.io/d/3zzRbT"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "39 GB"
+    },
+    {
+      "title": "Lost in Random",
+      "uris": ["https://gofile.io/d/GFneCo"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "9 GB"
+    },
+    {
+      "title": "Need For Speed Hot Pursuit Remastered",
+      "uris": ["https://gofile.io/d/KNgpDM"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "37 GB"
+    },
+    {
+      "title": "Need For Speed Payback",
+      "uris": ["https://gofile.io/d/Q02pdw"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "30 GB"
+    },
+    {
+      "title": "PGA TOUR 2K23",
+      "uris": ["https://gofile.io/d/AEeKw6"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "60 GB"
+    },
+    {
+      "title": "STAR WARS: Squadrons",
+      "uris": ["https://gofile.io/d/ce1p7G"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "34 GB"
+    },
+    {
+      "title": "Wild Hearts",
+      "uris": ["https://gofile.io/d/etGf05"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "82 GB"
+    },
+    {
+      "title": "Hogwarts Legacy",
+      "uris": ["https://gofile.io/d/0bY9p0"],
+      "uploadDate": "2025-07-16T20:00:00.000Z",
+      "fileSize": "76 GB"
+    },
+    {
+      "title": "STAR WARS: Outlaws",
+      "uris": ["https://gofile.io/d/Wf7fzI"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "90 GB"
+    },
+    {
+      "title": "ANNO 1800",
+      "uris": ["https://gofile.io/d/nCHdm3"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "99 GB"
+    },
+    {
+      "title": "Avatar: Frontiers of Pandora",
+      "uris": ["https://gofile.io/d/DVDpx5"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "125 GB"
+    },
+    {
+      "title": "Assassin's Creed Mirage",
+      "uris": ["https://gofile.io/d/VNvwGV"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "44 GB"
+    },
+    {
+      "title": "Prince of Persia: The Lost Crown",
+      "uris": ["https://gofile.io/d/jgFis7"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "30 GB"
+    },
+    {
+      "title": "Undisputed",
+      "uris": ["https://gofile.io/d/ZpOAQl"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "17 GB"
+    },
+    {
+      "title": "Final Fantasy XV Windows Edition",
+      "uris": ["https://gofile.io/d/cc9rYR"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "113 GB"
+    },
+    {
+      "title": "Marvel's Midnight Suns",
+      "uris": ["https://gofile.io/d/AzSQU6"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "61 GB"
+    },
+    {
+      "title": "Atomfall",
+      "uris": ["https://gofile.io/d/skg5e9"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "61 GB"
+    },
+    {
+      "title": "Dead Island 2",
+      "uris": ["https://gofile.io/d/wDSJnX"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "77 GB"
+    },
+    {
+      "title": "Dead Rising Deluxe Remaster",
+      "uris": ["https://gofile.io/d/wDSJnX"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "65 GB"
+    },
+    {
+      "title": "Football Manager 2024",
+      "uris": ["https://gofile.io/d/KjKQ31"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "6 GB"
+    },
+    {
+      "title": "Hatsune Miku: Project DIVA Mega Mix+",
+      "uris": ["https://gofile.io/d/XWM7IT"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "25 GB"
+    },
+    {
+      "title": "Lost Judgement",
+      "uris": ["https://gofile.io/d/U3nPGe"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "65 GB"
+    },
+    {
+      "title": "Two Point Campus",
+      "uris": ["https://gofile.io/d/CdJlGE"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "5 GB"
+    },
+    {
+      "title": "Shin Megami Tensei III Nocturne HD Remaster",
+      "uris": ["https://gofile.io/d/kFrIgq"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "12 GB"
+    },
+    {
+      "title": "Soul Hackers 2",
+      "uris": ["https://gofile.io/d/BpA2PP"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "22 GB"
+    },
+    {
+      "title": "Metaphor: ReFantazio",
+      "uris": ["https://gofile.io/d/UDPjL2"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "86 GB"
+    },
+    {
+      "title": "Sniper Elite 4",
+      "uris": ["https://gofile.io/d/r1VjhT"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "58 GB"
+    },
+    {
+      "title": "Sniper Elite 5",
+      "uris": ["https://gofile.io/d/r71IJP"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "102 GB"
+    },
+    {
+      "title": "Sniper Elite: Resistance",
+      "uris": ["https://gofile.io/d/P6f1Gq"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "105 GB"
+    },
+    {
+      "title": "Top Spin 2K25",
+      "uris": ["https://gofile.io/d/uMuxtz"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "31 GB"
+    },
+    {
+      "title": "A Total War Saga: TROY",
+      "uris": ["https://gofile.io/d/UZ2InN"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "37.5 GB"
+    },
+    {
+      "title": "Construction Simulator",
+      "uris": ["https://gofile.io/d/ivsxc1"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "13.5 GB"
+    },
+    {
+      "title": "Dragon's Dogma 2",
+      "uris": ["https://gofile.io/d/CJKiwh"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "71 GB"
+    },
+    {
+      "title": "F1 Manager 2024",
+      "uris": ["https://gofile.io/d/onoWZg"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "18.8 GB"
+    },
+    {
+      "title": "Far: Changing Tides",
+      "uris": ["https://gofile.io/d/VNQVDy"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "2.9 GB"
+    },
+    {
+      "title": "Onimusha 2 Samurai's Destiny",
+      "uris": ["https://gofile.io/d/GDoG27"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "22.9 GB"
+    },
+    {
+      "title": "Planet Zoo",
+      "uris": [" https://gofile.io/d/jECxRM"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "22.1 GB"
+    },
+    {
+      "title": "Redfall",
+      "uris": [" https://gofile.io/d/Xa9dNm"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "77.1 GB"
+    } ,
+    {
+      "title": "The BUS",
+      "uris": ["https://gofile.io/d/Ywxqzl"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "51.1 GB"
+    },
+    {
+      "title": "Total War: PHARAOH",
+      "uris": ["https://gofile.io/d/xxCLy4"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "51.1 GB"
+    },
+    {
+      "title": "Total War: Three Kingdoms",
+      "uris": ["https://gofile.io/d/hfaRwQ"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "62.1 GB"
+    },
+    {
+      "title": "Total War: Warhammer III",
+      "uris": ["https://gofile.io/d/ANziw8"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "88.1 GB"
+    },
+    {
+      "title": "Warhammer Age of Sigmar: Realms of Ruin",
+      "uris": [" https://gofile.io/d/i7U9OY"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "15.8 GB"
+    },
+    {
+      "title": "Stranded: Alien Dawn",
+      "uris": ["https://gofile.io/d/VtkATm"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "11.8 GB"
+    },
+    {
+      "title": "Two Point Museum",
+      "uris": ["https://gofile.io/d/qbKCD2"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "4.22 GB"
+    },
+    {
+      "title": "Jurassic World Evolution 2",
+      "uris": ["https://gofile.io/d/2PJJI6"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "10.72 GB"
+    },
+    {
+      "title": "Sid Meier's Civilization VII",
+      "uris": ["https://gofile.io/d/gMS9It"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "20.76 GB"
+    },
+    {
+      "title": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+      "uris": ["https://gofile.io/d/bg5zOq"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "18 GB"
+    },
+    {
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+      "uris": ["https://gofile.io/d/nVunPK"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "24.2 GB"
+    },
+    {
+      "title": "PGA TOUR 2K25",
+      "uris": ["https://gofile.io/d/jBKqYV"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "30 GB"
+    },
+    {
+      "title": "Mafia: The Old Country",
+      "uris": ["https://gofile.io/d/G4EV6c"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "55 GB"
+    },
+    {
+      "title": "Shinobi: Art of Vengeance",
+      "uris": ["https://gofile.io/d/l7529T"],
+      "uploadDate": "2025-08-27T10:00:00.000Z",
+      "fileSize": "8.94 GB"
+    }                                                                                                                                                                                                                                                                                                                                                                                      
+  ]
 }
-
